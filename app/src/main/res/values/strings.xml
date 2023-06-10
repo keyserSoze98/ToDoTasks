@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">To Do Tasks</string>
+    <string name="to_do_task">App Name: To Do Tasks</string>
+    <string name="list_of_tasks"><u>List of Tasks</u></string>
+    <string name="about"><u>About</u></string>
+    <string name="developed_by">Developed By: Keyser Soze</string>
+    <string name="version">Version: 1.0</string>
+    <string name="feedback">Feel free to share any suggestions or feedback that you may have by clicking on the link below:</string>
+    <string name="send_feedback">Send Feedback</string>
+</resources>
